@@ -10,7 +10,7 @@
 "      * Objetivo                                                           *"
 "      *                                                                    *"
 "      *     Generar descarga de journal ATMs por rango de fechas y         *"
-"      *     número de cajero. Deja resultado en IFS.                       *"
+"      *     número de cajero. Deja resultado en IFS.    (CAMBIO)           *"
 "      *                                                                    *"
 "      *--------------------------------------------------------------------*"
 "      * Mantenciones                                                       *"
